@@ -1,0 +1,7 @@
+#Tue Jan 17 17:33:12 GMT+08:00 2017
+base.0=E\:\\csWorkPlace\\SDLAndGLES\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_db77a1e065122f5f0bf18535eea5ceca1372146a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\csWorkPlace\\SDLAndGLES\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_543355e1c5b111146eb2038f35fd655e54103f3e\\classes.dex
+base.1=E\:\\csWorkPlace\\SDLAndGLES\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_543355e1c5b111146eb2038f35fd655e54103f3e
+file.0=E\:\\csWorkPlace\\SDLAndGLES\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_db77a1e065122f5f0bf18535eea5ceca1372146a\\classes.dex

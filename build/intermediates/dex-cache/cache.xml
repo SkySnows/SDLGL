@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\csWorkPlace\SDLAndGLES\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9795be7a9f80b430fa914ca3b45ae66699471e3c">
+        <dex dex="E:\csWorkPlace\SDLAndGLES\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_543355e1c5b111146eb2038f35fd655e54103f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\csWorkPlace\SDLAndGLES\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e0bf27926d6a155ac409e729f5cec61a635637e5">
+        <dex dex="E:\csWorkPlace\SDLAndGLES\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_db77a1e065122f5f0bf18535eea5ceca1372146a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace\AndroidTst2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="998b3c94967df4b033ff5331d1a1c2e3062c1ed6">
+        <dex dex="E:\workplace\AndroidTst2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c4d4a86b7bb802a396202885ed7067c9f2ad5d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace\AndroidTst2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be60930eddc1e2940e8737411812fe97c0f4614c">
+        <dex dex="E:\workplace\AndroidTst2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_abb0e4eb9ca8469b33248b240cf5c29c87795885\classes.dex" />
+    </item>
+
+</items>
